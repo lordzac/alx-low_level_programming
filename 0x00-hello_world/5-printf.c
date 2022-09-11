@@ -3,8 +3,7 @@
 * main - print the string in the put function
 *
 * description: using the main function
-* 
-* return: 0 if no errors, return non zero if errors
+* Return: 0 if no errors, return non zero if errors
 */
 int main(void)
 {
