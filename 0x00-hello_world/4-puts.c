@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main- serves as the entry point for the program
  *
@@ -6,6 +7,6 @@
  */
 int main(void)
 {
-	puts("\"programming is building a multilingual puzzle");
+	puts("programming is building a multilingual puzzle\n");
 	return(0);
 }
