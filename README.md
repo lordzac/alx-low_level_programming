@@ -1,1 +1,1 @@
-this repository containing C-Hello, World
+this repository containing  C project and other low level programming
