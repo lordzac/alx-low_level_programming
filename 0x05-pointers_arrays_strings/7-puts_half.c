@@ -6,7 +6,7 @@
  * @str: string to be printed
  * Return: Always 0
  */
-void puts_half(char *str)void puts_half(char *str)
+void puts_half(char *str)
 {
 	int len, n, i;
 
