@@ -8,6 +8,7 @@
  * @age: doggo's age
  * @owner: doggo's owner
  */
+
 void init_dog(struct dog *d, char *name, float age, char *owner)
 {
 	if (d != NULL)
