@@ -5,3 +5,4 @@ This file contains all the function prototypes and data structures used by the p
 This file contain the function that selects the correct function to perform the operation asked by the user
 This file contain main function only
 This file contain 5 functions (not more)
+Write a program that prints the opcodes of its own main function
