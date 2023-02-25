@@ -47,5 +47,5 @@
 | [0x1E. C - Search Algorithms](./0x1E-search_algorithms) | Linear, binary, jump, exponential and interpolation searches |
 
 ### Author
-<h4>Ekomobong Cletus</h4>
+<h4>Balogun Zacchaeus</h4>
 <p>&copy;<strong>2022<strong> - ALX Software Engineering Projects</p>
